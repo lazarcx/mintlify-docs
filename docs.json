@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Studio",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -103,9 +103,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://discord.gg/6PEQaRRf3F",
+      "github": "https://github.com/lazarcx",
+      "linkedin": "https://discord.gg/6PEQaRRf3F"
     }
   }
 }
